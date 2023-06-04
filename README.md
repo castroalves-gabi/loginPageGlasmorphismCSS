@@ -12,10 +12,6 @@ Este repositório contém o código para uma página de login simples em HTML e 
 
 O projeto foi inspirado pelo tutorial em vídeo Glasmorphism Form UI | Glasmorfismo CSS do canal Coding Artist no YouTube. Você pode assistir ao tutorial [aqui](https://www.youtube.com/watch?v=FAfFlyaRAiI).
 
-## Pré-requisitos
-
-Antes de executar o código, certifique-se de ter um navegador web instalado em sua máquina.
-
 ## Instruções de Uso
 
 1. Clone o repositório para sua máquina local:
@@ -47,12 +43,6 @@ O código CSS define propriedades de fundo, borda, sombra, espaçamento e tipogr
 ## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar algum problema no código ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/nome-do-repositorio/issues) ou enviar um [pull request](https://github.com/seu-usuario/nome-do-repositorio/pulls).
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-<br>
-<br>
 <br>
 <br>
 ___
@@ -61,10 +51,6 @@ ___
 This repository contains the code for a simple login page in HTML and CSS, using the Glassmorphism design style. The page features a login form with fields for email and password.
 
 The project was inspired by the Glasmorphism Form UI | Glassmorphism CSS video tutorial from the Coding Artist YouTube channel. You can watch the tutorial [here](https://www.youtube.com/watch?v=FAfFlyaRAiI).
-
-## Prerequisites
-
-Before running the code, make sure you have a web browser installed on your machine.
 
 ## Usage Instructions
 
