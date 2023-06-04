@@ -1,5 +1,7 @@
 _pt / en_
 
+[https://github.com/castroalves-gabi/loginPageGlasmorphismCSS/issues/1#issue-1740375429]
+
 # Página de Login
 
 Este repositório contém o código para uma página de login simples em HTML e CSS, utilizando o estilo de design Glassmorfismo. A página apresenta um formulário de login com campos para e-mail e senha.
