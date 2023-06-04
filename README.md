@@ -1,6 +1,10 @@
-_pt / en_
+                                                                                                                                                _pt / en_
+                                                                                                                                                
+___
 
 ![Captura de tela da aplicação](https://user-images.githubusercontent.com/117552601/243180652-35c33532-2e23-438d-855f-d7e5b981a48a.png)
+
+___
 
 # Página de Login
 
@@ -48,7 +52,11 @@ Contribuições são bem-vindas! Se você encontrar algum problema no código ou
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
+
+
 ___
+
+
 
 # Login Page
 
@@ -91,7 +99,3 @@ The CSS code defines background, border, shadow, spacing, and typography propert
 ## Contribution
 
 Contributions are welcome! If you find any issues with the code or have suggestions for improvements, feel free to open an [issue](https://github.com/your-username/repository-name/issues) or submit a [pull request](https://github.com/your-username/repository-name/pulls).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
