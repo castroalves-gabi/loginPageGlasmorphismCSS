@@ -1,6 +1,6 @@
 _pt / en_
 
-[https://github.com/castroalves-gabi/loginPageGlasmorphismCSS/issues/1#issue-1740375429]
+![Captura de tela da aplicação](https://user-images.githubusercontent.com/117552601/243180652-35c33532-2e23-438d-855f-d7e5b981a48a.png)
 
 # Página de Login
 
